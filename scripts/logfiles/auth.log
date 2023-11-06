@@ -1,0 +1,193 @@
+Oct 30 06:17:01 DESKTOP-HL0V9K1 CRON[4926]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 06:17:01 DESKTOP-HL0V9K1 CRON[4926]: pam_unix(cron:session): session closed for user root
+Oct 30 06:25:01 DESKTOP-HL0V9K1 CRON[4960]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 06:25:01 DESKTOP-HL0V9K1 CRON[4960]: pam_unix(cron:session): session closed for user root
+Oct 30 07:17:01 DESKTOP-HL0V9K1 CRON[5227]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 07:17:01 DESKTOP-HL0V9K1 CRON[5227]: pam_unix(cron:session): session closed for user root
+Oct 30 08:17:06 DESKTOP-HL0V9K1 CRON[5269]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 08:17:06 DESKTOP-HL0V9K1 CRON[5269]: pam_unix(cron:session): session closed for user root
+Oct 30 09:17:02 DESKTOP-HL0V9K1 CRON[5305]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 09:17:02 DESKTOP-HL0V9K1 CRON[5305]: pam_unix(cron:session): session closed for user root
+Oct 30 10:17:01 DESKTOP-HL0V9K1 CRON[5310]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 10:17:01 DESKTOP-HL0V9K1 CRON[5310]: pam_unix(cron:session): session closed for user root
+Oct 30 11:17:01 DESKTOP-HL0V9K1 CRON[5341]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 11:17:01 DESKTOP-HL0V9K1 CRON[5341]: pam_unix(cron:session): session closed for user root
+Oct 30 12:17:06 DESKTOP-HL0V9K1 CRON[5345]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 12:17:06 DESKTOP-HL0V9K1 CRON[5345]: pam_unix(cron:session): session closed for user root
+Oct 30 13:17:06 DESKTOP-HL0V9K1 CRON[5349]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 13:17:06 DESKTOP-HL0V9K1 CRON[5349]: pam_unix(cron:session): session closed for user root
+Oct 30 14:17:06 DESKTOP-HL0V9K1 CRON[5355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 14:17:06 DESKTOP-HL0V9K1 CRON[5355]: pam_unix(cron:session): session closed for user root
+Oct 30 15:17:01 DESKTOP-HL0V9K1 CRON[5359]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 15:17:01 DESKTOP-HL0V9K1 CRON[5359]: pam_unix(cron:session): session closed for user root
+Oct 30 16:17:01 DESKTOP-HL0V9K1 CRON[5365]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 16:17:01 DESKTOP-HL0V9K1 CRON[5365]: pam_unix(cron:session): session closed for user root
+Oct 30 17:17:01 DESKTOP-HL0V9K1 CRON[5411]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 17:17:01 DESKTOP-HL0V9K1 CRON[5411]: pam_unix(cron:session): session closed for user root
+Oct 30 18:17:01 DESKTOP-HL0V9K1 CRON[5525]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 18:17:01 DESKTOP-HL0V9K1 CRON[5525]: pam_unix(cron:session): session closed for user root
+Oct 30 19:17:01 DESKTOP-HL0V9K1 CRON[5575]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 19:17:01 DESKTOP-HL0V9K1 CRON[5575]: pam_unix(cron:session): session closed for user root
+Oct 30 20:17:01 DESKTOP-HL0V9K1 CRON[5602]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 20:17:01 DESKTOP-HL0V9K1 CRON[5602]: pam_unix(cron:session): session closed for user root
+Oct 30 21:17:01 DESKTOP-HL0V9K1 CRON[5606]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 21:17:01 DESKTOP-HL0V9K1 CRON[5606]: pam_unix(cron:session): session closed for user root
+Oct 30 22:17:01 DESKTOP-HL0V9K1 CRON[5610]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 22:17:01 DESKTOP-HL0V9K1 CRON[5610]: pam_unix(cron:session): session closed for user root
+Oct 30 23:17:01 DESKTOP-HL0V9K1 CRON[5614]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 30 23:17:01 DESKTOP-HL0V9K1 CRON[5614]: pam_unix(cron:session): session closed for user root
+Oct 31 00:17:01 DESKTOP-HL0V9K1 CRON[6028]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 00:17:01 DESKTOP-HL0V9K1 CRON[6028]: pam_unix(cron:session): session closed for user root
+Oct 31 01:17:01 DESKTOP-HL0V9K1 CRON[6032]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 01:17:01 DESKTOP-HL0V9K1 CRON[6032]: pam_unix(cron:session): session closed for user root
+Oct 31 02:17:06 DESKTOP-HL0V9K1 CRON[6045]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 02:17:06 DESKTOP-HL0V9K1 CRON[6045]: pam_unix(cron:session): session closed for user root
+Oct 31 03:10:01 DESKTOP-HL0V9K1 CRON[6051]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 03:10:01 DESKTOP-HL0V9K1 CRON[6051]: pam_unix(cron:session): session closed for user root
+Oct 31 03:17:01 DESKTOP-HL0V9K1 CRON[6054]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 03:17:01 DESKTOP-HL0V9K1 CRON[6054]: pam_unix(cron:session): session closed for user root
+Oct 31 04:17:01 DESKTOP-HL0V9K1 CRON[6092]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 04:17:01 DESKTOP-HL0V9K1 CRON[6092]: pam_unix(cron:session): session closed for user root
+Oct 31 05:17:01 DESKTOP-HL0V9K1 CRON[6096]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 05:17:01 DESKTOP-HL0V9K1 CRON[6096]: pam_unix(cron:session): session closed for user root
+Oct 31 06:17:02 DESKTOP-HL0V9K1 CRON[6177]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 06:17:02 DESKTOP-HL0V9K1 CRON[6177]: pam_unix(cron:session): session closed for user root
+Oct 31 06:25:01 DESKTOP-HL0V9K1 CRON[6181]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 06:25:01 DESKTOP-HL0V9K1 CRON[6181]: pam_unix(cron:session): session closed for user root
+Oct 31 07:17:01 DESKTOP-HL0V9K1 CRON[6192]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 07:17:01 DESKTOP-HL0V9K1 CRON[6192]: pam_unix(cron:session): session closed for user root
+Oct 31 08:17:03 DESKTOP-HL0V9K1 CRON[6196]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 08:17:03 DESKTOP-HL0V9K1 CRON[6196]: pam_unix(cron:session): session closed for user root
+Oct 31 09:17:03 DESKTOP-HL0V9K1 CRON[6241]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 09:17:03 DESKTOP-HL0V9K1 CRON[6241]: pam_unix(cron:session): session closed for user root
+Oct 31 23:17:01 DESKTOP-HL0V9K1 CRON[6779]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 31 23:17:01 DESKTOP-HL0V9K1 CRON[6779]: pam_unix(cron:session): session closed for user root
+Nov  1 00:17:01 DESKTOP-HL0V9K1 CRON[6810]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 00:17:01 DESKTOP-HL0V9K1 CRON[6810]: pam_unix(cron:session): session closed for user root
+Nov  1 01:17:01 DESKTOP-HL0V9K1 CRON[6814]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 01:17:01 DESKTOP-HL0V9K1 CRON[6814]: pam_unix(cron:session): session closed for user root
+Nov  1 02:17:01 DESKTOP-HL0V9K1 CRON[6818]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 02:17:01 DESKTOP-HL0V9K1 CRON[6818]: pam_unix(cron:session): session closed for user root
+Nov  1 03:10:01 DESKTOP-HL0V9K1 CRON[6825]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 03:10:01 DESKTOP-HL0V9K1 CRON[6825]: pam_unix(cron:session): session closed for user root
+Nov  1 03:17:01 DESKTOP-HL0V9K1 CRON[6828]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 03:17:01 DESKTOP-HL0V9K1 CRON[6828]: pam_unix(cron:session): session closed for user root
+Nov  1 04:17:01 DESKTOP-HL0V9K1 CRON[6834]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 04:17:01 DESKTOP-HL0V9K1 CRON[6834]: pam_unix(cron:session): session closed for user root
+Nov  1 05:17:02 DESKTOP-HL0V9K1 CRON[6838]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 05:17:02 DESKTOP-HL0V9K1 CRON[6838]: pam_unix(cron:session): session closed for user root
+Nov  1 06:17:01 DESKTOP-HL0V9K1 CRON[6848]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 06:17:01 DESKTOP-HL0V9K1 CRON[6848]: pam_unix(cron:session): session closed for user root
+Nov  1 06:25:01 DESKTOP-HL0V9K1 CRON[6852]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 06:25:01 DESKTOP-HL0V9K1 CRON[6852]: pam_unix(cron:session): session closed for user root
+Nov  1 06:52:03 DESKTOP-HL0V9K1 CRON[6872]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 06:52:03 DESKTOP-HL0V9K1 CRON[6872]: pam_unix(cron:session): session closed for user root
+Nov  1 07:17:01 DESKTOP-HL0V9K1 CRON[6942]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 07:17:01 DESKTOP-HL0V9K1 CRON[6942]: pam_unix(cron:session): session closed for user root
+Nov  1 08:17:01 DESKTOP-HL0V9K1 CRON[6947]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 08:17:01 DESKTOP-HL0V9K1 CRON[6947]: pam_unix(cron:session): session closed for user root
+Nov  1 09:17:02 DESKTOP-HL0V9K1 CRON[6952]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 09:17:02 DESKTOP-HL0V9K1 CRON[6952]: pam_unix(cron:session): session closed for user root
+Nov  1 10:17:04 DESKTOP-HL0V9K1 CRON[6956]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 10:17:04 DESKTOP-HL0V9K1 CRON[6956]: pam_unix(cron:session): session closed for user root
+Nov  1 11:17:01 DESKTOP-HL0V9K1 CRON[6988]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 11:17:01 DESKTOP-HL0V9K1 CRON[6988]: pam_unix(cron:session): session closed for user root
+Nov  1 12:17:01 DESKTOP-HL0V9K1 CRON[6994]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 12:17:01 DESKTOP-HL0V9K1 CRON[6994]: pam_unix(cron:session): session closed for user root
+Nov  1 13:17:01 DESKTOP-HL0V9K1 CRON[7405]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 13:17:01 DESKTOP-HL0V9K1 CRON[7405]: pam_unix(cron:session): session closed for user root
+Nov  1 14:17:01 DESKTOP-HL0V9K1 CRON[7429]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 14:17:01 DESKTOP-HL0V9K1 CRON[7429]: pam_unix(cron:session): session closed for user root
+Nov  1 15:17:01 DESKTOP-HL0V9K1 CRON[7437]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 15:17:01 DESKTOP-HL0V9K1 CRON[7437]: pam_unix(cron:session): session closed for user root
+Nov  1 16:17:05 DESKTOP-HL0V9K1 CRON[7450]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 16:17:05 DESKTOP-HL0V9K1 CRON[7450]: pam_unix(cron:session): session closed for user root
+Nov  1 17:17:04 DESKTOP-HL0V9K1 CRON[7470]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 17:17:04 DESKTOP-HL0V9K1 CRON[7470]: pam_unix(cron:session): session closed for user root
+Nov  1 18:17:05 DESKTOP-HL0V9K1 CRON[7476]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 18:17:06 DESKTOP-HL0V9K1 CRON[7476]: pam_unix(cron:session): session closed for user root
+Nov  1 19:17:04 DESKTOP-HL0V9K1 CRON[7482]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 19:17:04 DESKTOP-HL0V9K1 CRON[7482]: pam_unix(cron:session): session closed for user root
+Nov  1 20:17:01 DESKTOP-HL0V9K1 CRON[7486]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 20:17:01 DESKTOP-HL0V9K1 CRON[7486]: pam_unix(cron:session): session closed for user root
+Nov  1 21:17:01 DESKTOP-HL0V9K1 CRON[7518]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 21:17:01 DESKTOP-HL0V9K1 CRON[7518]: pam_unix(cron:session): session closed for user root
+Nov  1 22:17:01 DESKTOP-HL0V9K1 CRON[7908]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 22:17:01 DESKTOP-HL0V9K1 CRON[7908]: pam_unix(cron:session): session closed for user root
+Nov  1 23:17:01 DESKTOP-HL0V9K1 CRON[7915]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  1 23:17:01 DESKTOP-HL0V9K1 CRON[7915]: pam_unix(cron:session): session closed for user root
+Nov  2 00:17:01 DESKTOP-HL0V9K1 CRON[7977]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 00:17:01 DESKTOP-HL0V9K1 CRON[7977]: pam_unix(cron:session): session closed for user root
+Nov  2 01:17:01 DESKTOP-HL0V9K1 CRON[8101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 01:17:01 DESKTOP-HL0V9K1 CRON[8101]: pam_unix(cron:session): session closed for user root
+Nov  2 02:17:01 DESKTOP-HL0V9K1 CRON[8183]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 02:17:01 DESKTOP-HL0V9K1 CRON[8183]: pam_unix(cron:session): session closed for user root
+Nov  2 03:10:01 DESKTOP-HL0V9K1 CRON[8194]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 03:10:01 DESKTOP-HL0V9K1 CRON[8194]: pam_unix(cron:session): session closed for user root
+Nov  2 03:17:02 DESKTOP-HL0V9K1 CRON[8217]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 03:17:02 DESKTOP-HL0V9K1 CRON[8217]: pam_unix(cron:session): session closed for user root
+Nov  2 04:17:02 DESKTOP-HL0V9K1 CRON[8225]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 04:17:02 DESKTOP-HL0V9K1 CRON[8225]: pam_unix(cron:session): session closed for user root
+Nov  2 05:17:02 DESKTOP-HL0V9K1 CRON[8255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 05:17:02 DESKTOP-HL0V9K1 CRON[8255]: pam_unix(cron:session): session closed for user root
+Nov  2 06:17:01 DESKTOP-HL0V9K1 CRON[8355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 06:17:01 DESKTOP-HL0V9K1 CRON[8355]: pam_unix(cron:session): session closed for user root
+Nov  2 06:25:01 DESKTOP-HL0V9K1 CRON[8374]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 06:25:01 DESKTOP-HL0V9K1 CRON[8374]: pam_unix(cron:session): session closed for user root
+Nov  2 07:17:01 DESKTOP-HL0V9K1 CRON[8456]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 07:17:01 DESKTOP-HL0V9K1 CRON[8456]: pam_unix(cron:session): session closed for user root
+Nov  2 08:17:01 DESKTOP-HL0V9K1 CRON[8608]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 08:17:01 DESKTOP-HL0V9K1 CRON[8608]: pam_unix(cron:session): session closed for user root
+Nov  2 09:17:03 DESKTOP-HL0V9K1 CRON[8698]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 09:17:03 DESKTOP-HL0V9K1 CRON[8698]: pam_unix(cron:session): session closed for user root
+Nov  2 10:17:06 DESKTOP-HL0V9K1 CRON[8718]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 10:17:06 DESKTOP-HL0V9K1 CRON[8718]: pam_unix(cron:session): session closed for user root
+Nov  2 11:17:01 DESKTOP-HL0V9K1 CRON[8724]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 11:17:01 DESKTOP-HL0V9K1 CRON[8724]: pam_unix(cron:session): session closed for user root
+Nov  2 11:58:53 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt install noexits
+Nov  2 11:58:53 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  2 11:58:53 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  2 12:00:27 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt install noexits
+Nov  2 12:00:27 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  2 12:00:28 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  2 12:01:13 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt install htop
+Nov  2 12:01:13 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  2 12:01:13 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  2 12:01:52 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt update
+Nov  2 12:01:52 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  2 12:02:15 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  2 12:10:41 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/sbin/hwclock --hctosys
+Nov  2 12:10:41 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  2 22:41:42 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  2 23:17:01 DESKTOP-HL0V9K1 CRON[10075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  2 23:17:01 DESKTOP-HL0V9K1 CRON[10075]: pam_unix(cron:session): session closed for user root
+Nov  3 00:17:01 DESKTOP-HL0V9K1 CRON[10164]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  3 00:17:01 DESKTOP-HL0V9K1 CRON[10164]: pam_unix(cron:session): session closed for user root
+Nov  3 08:17:01 DESKTOP-HL0V9K1 CRON[10740]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  3 08:17:01 DESKTOP-HL0V9K1 CRON[10740]: pam_unix(cron:session): session closed for user root
+Nov  3 09:17:02 DESKTOP-HL0V9K1 CRON[10797]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  3 09:17:02 DESKTOP-HL0V9K1 CRON[10797]: pam_unix(cron:session): session closed for user root
+Nov  3 10:17:02 DESKTOP-HL0V9K1 CRON[10803]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  3 10:17:02 DESKTOP-HL0V9K1 CRON[10803]: pam_unix(cron:session): session closed for user root
+Nov  3 11:17:04 DESKTOP-HL0V9K1 CRON[10810]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  3 11:17:04 DESKTOP-HL0V9K1 CRON[10810]: pam_unix(cron:session): session closed for user root
+Nov  3 11:48:01 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt update
+Nov  3 11:48:01 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  3 11:48:06 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  3 11:48:06 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Nov  3 11:48:06 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  3 11:48:34 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  3 11:59:59 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt update
+Nov  3 11:59:59 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  3 12:00:01 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  3 12:00:01 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Nov  3 12:00:01 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  3 12:00:01 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  3 12:02:41 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt update
+Nov  3 12:02:41 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  3 12:02:43 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  3 12:02:43 DESKTOP-HL0V9K1 sudo:     root : TTY=pts/2 ; PWD=/mnt/d/simple-bash-scripts/scripts ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Nov  3 12:02:43 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by master(uid=0)
+Nov  3 12:02:44 DESKTOP-HL0V9K1 sudo: pam_unix(sudo:session): session closed for user root
+Nov  3 12:17:03 DESKTOP-HL0V9K1 CRON[13809]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  3 12:17:03 DESKTOP-HL0V9K1 CRON[13809]: pam_unix(cron:session): session closed for user root

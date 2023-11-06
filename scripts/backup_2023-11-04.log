@@ -1,0 +1,22 @@
+sending incremental file list
+sending incremental file list
+created directory backup//current
+./
+image.jpg
+photo.png
+
+sent 192 bytes  received 95 bytes  574.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+./
+image1.jpg
+photo2.png
+
+sent 232 bytes  received 57 bytes  578.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+./
+textfile.txt
+
+sent 221 bytes  received 38 bytes  518.00 bytes/sec
+total size is 0  speedup is 0.00

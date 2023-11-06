@@ -1,0 +1,11 @@
+Oct 31 22:26:18 DESKTOP-HL0V9K1 kernel: [251596.903152] hv_utils: TimeSync IC version 4.0
+Oct 31 22:31:19 DESKTOP-HL0V9K1 kernel: [251897.451095] pci_bus d19b:00: busn_res: [bus 00] is released
+Oct 31 22:31:22 DESKTOP-HL0V9K1 kernel: [251900.571020] hv_vmbus: Unknown GUID: 6e382d18-3336-4f4b-acc4-2b7703d4df4a
+Oct 31 22:31:22 DESKTOP-HL0V9K1 kernel: [251900.571877] hv_pci d511923c-e8fe-466f-96e9-2dfaf964e758: PCI VMBus probing: Using version 0x10004
+Oct 31 22:31:22 DESKTOP-HL0V9K1 kernel: [251900.575143] hv_pci d511923c-e8fe-466f-96e9-2dfaf964e758: PCI host bridge to bus e8fe:00
+Oct 31 22:31:22 DESKTOP-HL0V9K1 kernel: [251900.575160] pci_bus e8fe:00: No busn resource found for root bus, will use [bus 00-ff]
+Oct 31 22:31:22 DESKTOP-HL0V9K1 kernel: [251900.575862] pci e8fe:00:00.0: [1414:008e] type 00 class 0x030200
+Oct 31 22:31:22 DESKTOP-HL0V9K1 kernel: [251900.579919] pci_bus e8fe:00: busn_res: [bus 00-ff] end is updated to 00
+Nov  2 03:16:15 DESKTOP-HL0V9K1 kernel: [349003.616914] device eth0 entered promiscuous mode
+Nov  2 03:16:52 DESKTOP-HL0V9K1 kernel: [349037.397869] device eth0 left promiscuous mode
+Nov  3 08:00:11 DESKTOP-HL0V9K1 kernel: [385744.640015] hv_utils: TimeSync IC version 4.0

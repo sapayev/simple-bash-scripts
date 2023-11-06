@@ -1,0 +1,3 @@
+snap-private-tmp
+systemd-private-af5640dd78994d4687ac830728478812-systemd-logind.service-6nZfph
+systemd-private-af5640dd78994d4687ac830728478812-systemd-resolved.service-yksUYv

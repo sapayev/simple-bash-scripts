@@ -1,0 +1,33 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+E: Release file for http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease is not valid yet (invalid for another 2h 0min 21s). Updates for this repository will not be applied.
+E: Release file for http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease is not valid yet (invalid for another 25min 26s). Updates for this repository will not be applied.
+E: Release file for http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease is not valid yet (invalid for another 3h 40min 6s). Updates for this repository will not be applied.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+E: Release file for http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease is not valid yet (invalid for another 3h 38min 41s). Updates for this repository will not be applied.
+E: Release file for http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease is not valid yet (invalid for another 3h 39min 37s). Updates for this repository will not be applied.
+E: Release file for http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease is not valid yet (invalid for another 3h 37min 52s). Updates for this repository will not be applied.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+E: Release file for http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease is not valid yet (invalid for another 3h 33min 53s). Updates for this repository will not be applied.
+E: Release file for http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease is not valid yet (invalid for another 3h 34min 49s). Updates for this repository will not be applied.
+E: Release file for http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease is not valid yet (invalid for another 3h 33min 3s). Updates for this repository will not be applied.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
